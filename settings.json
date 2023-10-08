@@ -6,5 +6,9 @@
 
     // Prevent vs code from opening last session
     // https://stackoverflow.com/questions/31270774/how-to-prevent-visual-studio-code-from-always-reopening-the-previous-files-or-fo/59740790#59740790
-    "window.restoreWindows": "none"
+    "window.restoreWindows": "none",
+
+    
+    // Disable welcome screen
+    "workbench.startupEditor": "none"
 }
