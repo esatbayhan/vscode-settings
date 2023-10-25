@@ -10,5 +10,8 @@
 
     
     // Disable welcome screen
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+
+    // Always wrap text
+    "editor.wordWrap": "on"
 }
