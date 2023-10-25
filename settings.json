@@ -13,5 +13,9 @@
     "workbench.startupEditor": "none",
 
     // Always wrap text
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+
+    // If multiple lines are selected, search only in selections
+    // See https://www.reddit.com/r/vscode/comments/rv9rep/find_and_replace_in_selected_text_only_on_mac/#
+    "editor.find.autoFindInSelection": "multiline",
 }
