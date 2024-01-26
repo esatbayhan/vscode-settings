@@ -1,0 +1,14 @@
+[
+    // Select code completion suggestions with tab instead of
+    // arrow keys to allow writing code without moving hands.
+    {
+        "key": "tab",
+        "command": "selectNextSuggestion",
+        "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus"
+    },
+    {
+        "key": "shift+tab",
+        "command": "selectPrevSuggestion",
+        "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus"
+    }
+]
