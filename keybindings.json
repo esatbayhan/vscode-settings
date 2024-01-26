@@ -1,6 +1,7 @@
 [
     // Select code completion suggestions with tab instead of
     // arrow keys to allow writing code without moving hands.
+    // See https://stackoverflow.com/a/48098133
     {
         "key": "tab",
         "command": "selectNextSuggestion",
