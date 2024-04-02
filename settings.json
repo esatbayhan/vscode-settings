@@ -25,4 +25,7 @@
     "editor.formatOnPaste": true,
     "notebook.formatOnSave.enabled": true,
     "notebook.formatOnCellExecution": true,
+
+    // https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_using-git-in-the-builtin-terminal
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
