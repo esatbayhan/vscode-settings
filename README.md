@@ -3,4 +3,4 @@
 ## Tastaturkürzel
 
 - Minimiere/ Maximieren Tab Fenster
-  - `CMD` + `K` + `M`
+  - `CMD + K` + `CMD + M`
